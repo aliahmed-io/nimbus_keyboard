@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#start
+npm run slicemachine
+npm run dev
+
+
+assets: https://prismic.io/courses/nimbus-keyboards
+video: https://www.youtube.com/watch?v=R7l4uVMWRF0&list=PLUVZjQltoA3wCwyR2P6WDO1Px8jU-A5Rc&index=2
+

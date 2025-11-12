@@ -18,6 +18,7 @@ import { checkout } from "@/checkout";
 gsap.registerPlugin(useGSAP);
 
 /**
+ * 
  * Props for `PurchaseButton`.
  */
 export type PurchaseButtonProps =

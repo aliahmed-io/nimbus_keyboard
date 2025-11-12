@@ -32,11 +32,7 @@
                 "config": {
                   "label": "Size",
                   "placeholder": "",
-                  "options": [
-                    "Small",
-                    "Medium",
-                    "Large"
-                  ]
+                  "options": ["Small", "Medium", "Large"]
                 }
               },
               "image": {
